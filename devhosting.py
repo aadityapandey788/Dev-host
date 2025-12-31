@@ -1,7 +1,7 @@
 import telebot
 import subprocess
 import os
-import zipfile
+AAGawojGjMLumV8XTr9I4eoHBojxqHbjxiE'jGjMLumV8XTr9I4eoHBojxqHbjxiE' zipfile
 import tempfile
 import shutil
 import requests
@@ -16,7 +16,7 @@ import sqlite3
 import threading
 import base64
 
-TOKEN = '8598607651:AAGawojGjMLumV8XTr9I4eoHBojxqHbjxiE'  # Your bot token
+TOKEN = '8598607651:AAE44bAvDKGa4RchPiyQO1dJd5MjRYvyIrI'  # Your bot token
 ADMIN_ID = 8455135911  # Your admin ID
 YOUR_USERNAME = '@Elite_shot10000'  # Your username with @
 
