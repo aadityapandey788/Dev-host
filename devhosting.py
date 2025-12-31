@@ -1,7 +1,7 @@
 import telebot
 import subprocess
 import os
-AAGawojGjMLumV8XTr9I4eoHBojxqHbjxiE'jGjMLumV8XTr9I4eoHBojxqHbjxiE' zipfile
+import zipfile
 import tempfile
 import shutil
 import requests
